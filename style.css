@@ -1,0 +1,25 @@
+body { margin: 0px;
+}
+.parrent {background-image: url(./images/Layer2.png);
+    width: 400px;
+    height: 300px;
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 0px;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    
+
+}
+ul.main-menu {width: 200px;
+    padding-top: 50px;
+    padding-left: 50px;
+    position:relative;
+    display: block;
+    float:inherit;
+}
+a.profile {background-image: url(./images/Fon1.png);
+  
+
+}
